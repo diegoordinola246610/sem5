@@ -1,0 +1,14 @@
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\bin\Debug\net8.0\ListaDoble.exe
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\bin\Debug\net8.0\ListaDoble.deps.json
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\bin\Debug\net8.0\ListaDoble.runtimeconfig.json
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\bin\Debug\net8.0\ListaDoble.dll
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\bin\Debug\net8.0\ListaDoble.pdb
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\obj\Debug\net8.0\ListaDoble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\obj\Debug\net8.0\ListaDoble.AssemblyInfoInputs.cache
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\obj\Debug\net8.0\ListaDoble.AssemblyInfo.cs
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\obj\Debug\net8.0\ListaDoble.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\obj\Debug\net8.0\ListaDoble.dll
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\obj\Debug\net8.0\refint\ListaDoble.dll
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\obj\Debug\net8.0\ListaDoble.pdb
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\obj\Debug\net8.0\ListaDoble.genruntimeconfig.cache
+C:\Users\UPN\Downloads\ESDAT_14595_S04-master\ListaDoble\obj\Debug\net8.0\ref\ListaDoble.dll
